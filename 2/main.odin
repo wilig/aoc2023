@@ -1,4 +1,4 @@
-package aoc_one
+package aoc_two
 
 import "core:bytes"
 import "core:fmt"
